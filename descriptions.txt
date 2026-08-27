@@ -1,0 +1,1 @@
+This document lists brief descriptions of each class project that accompanies the files in this repository.
